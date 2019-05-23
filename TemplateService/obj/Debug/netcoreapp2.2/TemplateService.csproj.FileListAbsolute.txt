@@ -1,0 +1,14 @@
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/bin/Debug/netcoreapp2.2/TemplateService.deps.json
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/bin/Debug/netcoreapp2.2/TemplateService.dll
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/bin/Debug/netcoreapp2.2/TemplateService.pdb
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/obj/Debug/netcoreapp2.2/TemplateService.csprojAssemblyReference.cache
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/obj/Debug/netcoreapp2.2/TemplateService.csproj.CoreCompileInputs.cache
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/obj/Debug/netcoreapp2.2/TemplateService.AssemblyInfoInputs.cache
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/obj/Debug/netcoreapp2.2/TemplateService.AssemblyInfo.cs
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/obj/Debug/netcoreapp2.2/TemplateService.dll
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/obj/Debug/netcoreapp2.2/TemplateService.pdb
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/bin/Debug/netcoreapp2.2/TemplateCore.dll
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/bin/Debug/netcoreapp2.2/TemplateInfrastructure.dll
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/bin/Debug/netcoreapp2.2/TemplateInfrastructure.pdb
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/bin/Debug/netcoreapp2.2/TemplateCore.pdb
+/Users/erick.lynn/IdeaProjects/templates/core2.2Api/TemplateService/obj/Debug/netcoreapp2.2/TemplateService.csproj.CopyComplete
