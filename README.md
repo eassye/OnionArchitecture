@@ -12,7 +12,7 @@ An outer layer can see an inner layer but an inner layer has no knowledge of any
 * Readability
 * Understandable 
 * Maintainability
-* Increase Development
+* Increase Development Times
 
 ## Articles Referenced
 * https://www.infoq.com/news/2014/10/ddd-onion-architecture/
