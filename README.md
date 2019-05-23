@@ -1,7 +1,8 @@
 # Onion Architecture
 ---
-## What is Onion Architecture 
 ![alt text](https://github.com/eassye/OnionArchitecture/blob/master/onion-architecture.png "Onion Architecture")
+---
+## What is Onion Architecture 
 Onion Architecture is a way to establish dependency flow amongst the different projects within a single solution.
 
 ## Important Concepts
